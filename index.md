@@ -9,7 +9,7 @@
 
   <hr />
 
-  <h2>🚀 Proyectos Destacados</h2>
+  <h2>💼 Proyectos Destacados</h2>
 
   <h3>1) Sistema De Gestión De Libros</h3>
   <p>Propósito: Gestionar libros, usuarios y préstamos desde consola con POO en Python.<br/>
