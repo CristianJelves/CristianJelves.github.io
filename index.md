@@ -1,15 +1,9 @@
-<!-- Perfil de GitHub: Cristian Jelves -->
-
-<div align="center">
-
-# 👋 ¡Hola! Soy Cristian Jelves
-
-**Rol:** Ingeniería De Datos  
-**Intereses:** ETL, Integración De Datos, Cloud, Python, NumPy
-
-[Portafolio Web](https://cristianjelves.github.io) · [GitHub](https://github.com/CristianJelves)
-
-</div>
+<h1 align="center">👋 ¡Hola! Soy Cristian Jelves</h1>
+<p align="center"><b>Rol:</b> Ingeniería De Datos · <b>Intereses:</b> ETL, Integración De Datos, Cloud, Python, NumPy</p>
+<p align="center">
+  <a href="https://cristianjelves.github.io">Portafolio Web</a> ·
+  <a href="https://github.com/CristianJelves">GitHub</a>
+</p>
 
 ---
 
@@ -20,14 +14,10 @@ Propósito: Gestionar libros, usuarios y préstamos desde consola con POO en Pyt
 Tecnologías: Python 3, POO, CLI.  
 Repositorio: https://github.com/CristianJelves/Sistema_gestion_libros
 
----
-
 ### 2) Herencia Y Excepciones En Python
 Propósito: Demostrar herencia, polimorfismo y manejo de excepciones personalizadas.  
 Tecnologías: Python 3.  
 Repositorio: https://github.com/CristianJelves/Herencia_Excepciones_Python
-
----
 
 ### 3) Estructuras NumPy – Análisis De Sensores
 Propósito: Simular, limpiar y analizar datos de sensores con NumPy; correlaciones y varianza.  
@@ -38,5 +28,3 @@ Repositorio: https://github.com/CristianJelves/Estructuras_Numpy
 
 ## 📫 Contacto
 Email: cristianjelves01@gmail.com
-
----
